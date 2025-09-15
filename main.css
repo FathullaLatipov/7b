@@ -1,6 +1,6 @@
 body {
     margin:0;
-    font-family: Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: silver;
 }
 
@@ -21,4 +21,13 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero p {
+    padding: 30px 20px;
+    margin: 30px;
 }
