@@ -27,7 +27,15 @@ nav a:hover {
     text-align: center;
 }
 
-.hero p {
-    padding: 30px 20px;
-    margin: 30px;
+
+.pricing {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   gap: 20px;
+   padding: 20px;
+}
+
+.card {
+    border: 1px solid black;
 }
