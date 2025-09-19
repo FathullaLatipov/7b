@@ -58,3 +58,21 @@ nav a:hover {
     list-style: none;
     text-align: left;
 }
+
+.card ul li {
+    margin-bottom: 10px;
+}
+
+.btn {
+    background: blue;
+    color: wheat;
+    border: none;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: darkblue;
+}
